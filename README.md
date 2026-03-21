@@ -32,7 +32,7 @@ The site is designed to feel "alive" using GSAP ScrollTrigger to handle the scro
 
 ## Design Philosophy
 
-This project keeps the fundamentals simple but powerful: HTML, CSS, and Vanilla JavaScript without heavy frameworks or complex build steps. Resource elements for some components were designed and optimized using Blender, providing high-quality 3D elements that enhance the visual experience.
+This project keeps the fundamentals simple but powerful: HTML, CSS, and Vanilla JavaScript without heavy frameworks or complex build steps. Resource elements for some components were designed and optimized using Blender, providing high-quality 3D model's 2D renders that enhance the visual experience.
 
 ### Technology Stack:
 
